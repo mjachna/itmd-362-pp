@@ -183,6 +183,7 @@ textarea {
 html{
   font-size: 1.125em; /* 18px /16px */
   line-height: 1.2em; /* 18 x 120% = 21.6px */
+  padding: .5em;
 }
 
 label,
@@ -192,4 +193,9 @@ input {
   font-size: inherit;
   line-height: inherit;
 }
+
+label{
+  padding:.18em 0;
+}
+
 
