@@ -195,11 +195,22 @@ html {
   font-size: 1.375em; /* 22px */
   line-height: 1.182em; /* 26px / ~ 120% */
   padding: 1.182em; /* 26px / ~ 120% */
+  background-color: #CCCCCC;
+  font-family: Signika, Tahoma, Verdana, Segoe, sans-serif;
   text-rendering: optimizeLegibility;
 }
 
 label {
   display: block;
+}
+
+input{
+  box-sizing: border-box;
+  width: 90%;
+  border: 0;
+  border-radious: 0;
+  background-color: #4C4C4C;
+  color: white;
 }
 
 /* ===== LAYOUT STYLES ====== */
