@@ -200,6 +200,12 @@ html {
   text-rendering: optimizeLegibility;
 }
 
+h1{
+  font-size: 1.667em; /*36.6px*/
+  line-height: 1.42em; /*52/36.6*/
+  text-align: center;
+}
+
 label {
   display: block;
 }
