@@ -8,8 +8,9 @@ Usability checklists are typical, and sometimes mindless, tools/magic tricks use
 
 * URLs for the usability checklists you've found:
 
-1.
-2.
+1. http://webdevchecklist.com/
+2. www.sqaforums.com/attachments/437212-WebApplicationTesting.doc
+   Cached >> http://webcache.googleusercontent.com/search?q=cache:6wLUr22Rw3AJ:www.sqaforums.com/attachments/437212-WebApplicationTesting.doc+&cd=2&hl=en&ct=clnk&gl=us
 
 * Your own condensed, ten-item must-have usability checklist:
 
