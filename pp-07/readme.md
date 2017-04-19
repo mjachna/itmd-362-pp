@@ -26,11 +26,11 @@ Small commits to your Production Problems repository that include:
 2) an explanation of three different points of guidance from your chosen guidelines (point to the
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
-* HCI Guidline One (URL):
-* How you implemented it in your sketch:
+* HCI Guidline One (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742468(v=vs.85).aspx
+* How you implemented it in your sketch: Forgiveness. Show Password and a message to tell the user which of the information they have entered in incorrect. Also a confirmation if a user is leaving the page so they don't loose what they have entered. Forgot user/pass may be clicked on accident.
 
-* HCI Guidline Two (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Two (URL): https://developer.apple.com/ios/human-interface-guidelines/overview/design-principles/
+* How you implemented it in your sketch: User Control. A navigation bar of links that allow a user to quickly go to the parts of iit that do not require them to login to avoid unnessisary actions. FOr example a school calander or school news. 
 
-* HCI Guidline Three (URL):
-* How you implemented it in your sketch:
+* HCI Guidline Three (URL): https://msdn.microsoft.com/en-us/library/windows/desktop/dn742468(v=vs.85).aspx
+* How you implemented it in your sketch: Control layout and spacing. Provide size of buttons and space between them to avoid users tapping on the wrong location or needing multiple taps.
